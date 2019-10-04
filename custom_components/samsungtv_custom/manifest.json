@@ -1,5 +1,5 @@
 {
-  "domain": "samsung_tv_custom",
+  "domain": "samsungtv_custom",
   "name": "Samsung TV custom",
   "documentation": "https://github.com/marysieek/smart_home/custom_components/samsungtv_custom/README.md",
   "dependencies": [],
